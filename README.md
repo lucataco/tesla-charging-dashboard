@@ -2,6 +2,10 @@
 
 A Python tool that fetches charging data from the Tesla API and generates a self-contained HTML dashboard with interactive Plotly charts.
 
+## Demo
+
+![Dashboard Demo](demo.png)
+
 ## Features
 
 - Fetches both V1 (daily aggregated) and V2 (per-session Supercharger) charging history
